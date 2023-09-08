@@ -63,7 +63,7 @@ Minimum storage : 100 mb
 ### instalasi
 
 1. Unduh file permainan ini melalui link berikut:
-     <a href="https://github.com/Pointdownz1/Skripsi-TA-Game/archive/refs/heads/main.zip"><strong>File ZIP 'Perang Pasifik'</strong></a>
+     <a href="https://github.com/Mistheil/Perang-Pasifik-VN/archive/refs/head/main.zip"><strong>File ZIP 'Perang Pasifik'</strong></a>
 
 2. Ekstraksi file berikut menuju penyimpanan komputer pengguna.
 3. Nyalakan permainan melalui file .exe dalam folder yang sudah di ekstraksi.
